@@ -1,10 +1,13 @@
 {
-  "App": {
-    "name": "Evermos",
-    "website": "www.evermos.com",
+  "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date",
+    "comments": "Comment[]"
   },
-  "Developer": {
-    "name": "Chandra Abdul Fattah",
-    "email": "chandra@evermos.com"
+  "Comment": {
+    "body": "string",
+    "post": "Post"
   }
 }
