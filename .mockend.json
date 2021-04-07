@@ -2,5 +2,9 @@
   "App": {
     "name": "Evermos",
     "website": "www.evermos.com",
+  },
+  "Developer": {
+    "name": "Chandra Abdul Fattah",
+    "email": "chandra@evermos.com"
   }
 }
