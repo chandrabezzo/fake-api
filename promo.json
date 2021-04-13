@@ -1,0 +1,35 @@
+{
+    "status": 200,
+    "code": 0,
+    "message": "Success",
+    "data": [
+        {
+            "image": "https://evermos-production.s3.ap-southeast-1.amazonaws.com/content/eldp/d708bfbd-a80b-435f-a973-80350d5d92de',
+            "title": "Penawaran Fantastis Aneka Produk Terlaris",
+            "subtitle": "Diskon hingga 70%",
+            "start_promo": "2021-04-28",
+            "end_promo": "2021-04-28",
+        },
+        {
+            "image": "https://evermos-production.s3.ap-southeast-1.amazonaws.com/banner/upload_f1bf91387715a5d9049074ab6cfe10cc.png',
+            "title": "Lebih Hemat Lebih Sejuk",
+            "subtitle": "Bersama Honeywell",
+            "start_promo": "2021-04-29",
+            "end_promo": "2021-04-30",
+        },
+        {
+            "image": "https://evermos-production.s3.ap-southeast-1.amazonaws.com/banner/upload_49ce3b1e7076d07115c5e02d96600527.jpg',
+            "title": "Tingkatkan Transaksi Ekstra Kredit Menanti",
+            "subtitle": "Diskon hingga 50%",
+            "start_promo": "2021-04-30",
+            "end_promo": "2021-05-01",
+        },
+        {
+            "image": "https://evermos-production.s3.ap-southeast-1.amazonaws.com/banner/upload_e3f7e87bf269a5f8dfd66704008ff8f0.png',
+            "title": "Tingkatkan Transaksi Ekstra Kredit Menanti",
+            "subtitle": "Diskon hingga 50%",
+            "start_promo": "2021-12-31",
+            "end_promo": "2022-01-01",
+        }
+    ]
+}
