@@ -302,42 +302,6 @@
 			"longitude": "105.262572",
 			"created_at": "2021-07-08T12:00:00.000000Z",
 			"updated_at": "2022-02-24T12:00:00.000000Z"
-		},
-		{
-			"id": "71",
-			"id_country": "1",
-			"province": "Sulawesi Utara",
-			"latitude": "-6.914744",
-			"longitude": "107.60981",
-			"created_at": "2021-07-08T12:00:00.000000Z",
-			"updated_at": "2021-07-08T12:00:00.000000Z"
-		},
-		{
-			"id": "13",
-			"id_country": "1",
-			"province": "Sumatera Barat",
-			"latitude": "-7.250445",
-			"longitude": "112.768845",
-			"created_at": "2021-07-08T12:00:00.000000Z",
-			"updated_at": "2021-07-08T12:00:00.000000Z"
-		},
-		{
-			"id": "16",
-			"id_country": "1",
-			"province": "Sumatera Selatan",
-			"latitude": "-6.966667",
-			"longitude": "110.416664",
-			"created_at": "2021-07-08T12:00:00.000000Z",
-			"updated_at": "2021-07-08T12:00:00.000000Z"
-		},
-		{
-			"id": "12",
-			"id_country": "1",
-			"province": "Sumatera Utara",
-			"latitude": "-6.966667",
-			"longitude": "110.416664",
-			"created_at": "2021-07-08T12:00:00.000000Z",
-			"updated_at": "2021-07-08T12:00:00.000000Z"
 		}
 	]
 }
